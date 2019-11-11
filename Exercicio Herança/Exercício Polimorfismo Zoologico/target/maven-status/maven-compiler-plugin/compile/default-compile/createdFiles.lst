@@ -1,12 +1,13 @@
-br\estacio\pri\exerciciopolimorfismo\empresa\Funcionario.class
-br\estacio\pri\exerciciopolimorfismo\empresa\FuncionarioBasico.class
 br\estacio\pri\exerciciopolimorfismo\empresa\FuncionarioMedio.class
 br\estacio\pri\exerciciopolimorfismo\empresa\ProgramaEmpresa.class
+br\estacio\pri\exerciciopolimorfismo\zoologico\PodeCorrer.class
 br\estacio\pri\exerciciopolimorfismo\zoologico\Preguica.class
 br\estacio\pri\exerciciopolimorfismo\empresa\FuncionarioGraduado.class
-br\estacio\pri\exerciciopolimorfismo\zoologico\ProgramaAnimal.class
 br\estacio\pri\exerciciopolimorfismo\zoologico\Cachorro.class
-br\estacio\pri\exerciciopolimorfismo\zoologico\Cavalo.class
 br\estacio\pri\exerciciopolimorfismo\zoologico\Zoologico.class
 br\estacio\pri\exerciciopolimorfismo\zoologico\Veterinario.class
+br\estacio\pri\exerciciopolimorfismo\empresa\Funcionario.class
+br\estacio\pri\exerciciopolimorfismo\empresa\FuncionarioBasico.class
+br\estacio\pri\exerciciopolimorfismo\zoologico\ProgramaAnimal.class
+br\estacio\pri\exerciciopolimorfismo\zoologico\Cavalo.class
 br\estacio\pri\exerciciopolimorfismo\zoologico\Animal.class

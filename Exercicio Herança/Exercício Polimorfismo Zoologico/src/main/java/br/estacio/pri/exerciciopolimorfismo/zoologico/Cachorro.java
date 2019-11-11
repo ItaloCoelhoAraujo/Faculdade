@@ -1,6 +1,6 @@
 package br.estacio.pri.exerciciopolimorfismo.zoologico;
 
-public class Cachorro extends Animal {
+public class Cachorro extends Animal implements PodeCorrer {
 
     public Cachorro() {
 
@@ -15,6 +15,6 @@ public class Cachorro extends Animal {
     }
 
     public void correr(){
-        System.out.print("Cachorro comeca a correr!");
+        System.out.print("Cachorro comeca a correr!\n");
     }
 }

@@ -44,7 +44,7 @@ public class ProgramaEmpresa {
         float total = 0;
 
         for(int i = 0; i < empresa.length; i++){
-            if(empresa[i].getClass() == FuncionarioBasico.class){
+            if(empresa[i] instanceof FuncionarioBasico){
                 total += empresa[i].calcularRenda();
             }
         }
@@ -56,7 +56,7 @@ public class ProgramaEmpresa {
         float total = 0;
 
         for(int i = 0; i < empresa.length; i++){
-            if(empresa[i].getClass() == FuncionarioMedio.class){
+            if(empresa[i] instanceof FuncionarioMedio){
                 total += empresa[i].calcularRenda();
             }
         }
@@ -68,7 +68,7 @@ public class ProgramaEmpresa {
         float total = 0;
 
         for(int i = 0; i < empresa.length; i++){
-            if(empresa[i].getClass() == FuncionarioGraduado.class){
+            if(empresa[i] instanceof FuncionarioGraduado){
                 total += empresa[i].calcularRenda();
             }
         }
